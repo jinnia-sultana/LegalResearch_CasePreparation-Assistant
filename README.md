@@ -1,1 +1,1 @@
-# LegalResearch_-_CasePreparation-Assistant
+# LegalResearch_CasePreparation-Assistant
